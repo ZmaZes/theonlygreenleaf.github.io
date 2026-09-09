@@ -31,3 +31,5 @@ The important thing to note is that you can actually make your own packages and 
 5. Press 1 to restart the project with the resources applied
 6. Use W to warp to your scene
 Note: You will currently also need to override the assets.json for an existing file to get your asset to load since there is currently no keybind to load an asset pack
+
+Disclaimer: Yale Explorer is not directly affiliated or associated with Yale University and is not an official yale.edu website.
