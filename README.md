@@ -2,6 +2,13 @@
 An interactive point-and-click style game that lets you explore all (eventually) of Yale University.
 This project aims to capture the majority of campus including secret areas you wouldn't normally know about... but you still have to find them yourself!
 
+### Keybinds
+|Key|Function|
+|---|--------|
+|Right Arrow|Turn around|
+|Click|Interact/Go to room|
+|L|Switch the layout (Landscape\|Portrait\|Fullscreen)|
+
 ### Package System
 Each building of campus has its own zip file that contains pictures for each room/corridor.
 For example "o-fr.zip" contains assets for Old Campus — Farnam Hall.
