@@ -9,6 +9,21 @@ This project aims to capture the majority of campus including secret areas you w
 |Click|Interact/Go to room|
 |L|Switch the layout (Landscape\|Portrait\|Fullscreen)|
 
+### Progress
+Farnam Hall
+- Basement
+- Stairways
+- A32 & A31
+Lawrence Hall
+- Basement and Entranceways
+Battell Chapel
+- Basement
+- Main Entranceway
+Old Campus Courtyard
+- Farnam Doors
+- Lawrence Doors
+- One of the chapel doors
+
 ### Package System
 Each building of campus has its own zip file that contains pictures for each room/corridor.
 For example "o-fr.zip" contains assets for Old Campus — Farnam Hall.
@@ -28,6 +43,7 @@ The important thing to note is that you can actually make your own packages and 
 |O|Open an asset zip file from local storage|
 |1|Restart the project (if you loaded in new assets)
 |6|Show the assets list (50% chance of not working because I'm lazy)|
+|7|Purge all stored assets|
 |G|Deny access to everything while held|
 
 ### Importing an asset zip file
